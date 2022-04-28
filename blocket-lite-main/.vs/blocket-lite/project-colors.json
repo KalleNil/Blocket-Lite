@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "10681e50-8c93-42de-ba13-2610068f7be7": {
+      "ProjectGuid": "10681e50-8c93-42de-ba13-2610068f7be7",
+      "DisplayName": "blocket-lite",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "e5b6a297-2c0c-463a-b147-afb297ec76a6": {
+      "ProjectGuid": "e5b6a297-2c0c-463a-b147-afb297ec76a6",
+      "DisplayName": "blocket-lite",
+      "ColorIndex": 1
+    },
+    "ff39fef5-ec67-4447-9c8a-02b4f72b48c1": {
+      "ProjectGuid": "ff39fef5-ec67-4447-9c8a-02b4f72b48c1",
+      "DisplayName": "blocket-lite",
+      "ColorIndex": 2
+    },
+    "3679b43a-cac8-4429-a6a7-20632b828a38": {
+      "ProjectGuid": "3679b43a-cac8-4429-a6a7-20632b828a38",
+      "DisplayName": "blocket-lite",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
